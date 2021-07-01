@@ -20,4 +20,5 @@ http://www.example.com.br/p/media?page=FUZZ
 
 ### Recomendetion gf-patterns
 [Gf-Patterns V 1.9](https://github.com/1ndianl33t/Gf-Patterns)
+
 [top25-parameter](https://github.com/lutfumertceylan/top25-parameter)
