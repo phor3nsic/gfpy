@@ -1,6 +1,6 @@
 # GFpy
 
-> gfpy is similary of [gf](https://github.com/tomnomnom/gf), but is in python and it's possible to use gf-partners in another locals.
+> gfpy is similary of [gf](https://github.com/tomnomnom/gf), but is in python and it's possible to use gf-partners in any locals.
 
 ```
 python3 gfpy.py -f parameters.txt -p xss.json | sort -u 
